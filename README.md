@@ -6,6 +6,8 @@ Welcome to TS Study Jams! This repository is designed to help you get started wi
 ```bash
 npm install -g typescript
 ```
+###### Try TypeScript Inside the Browser with [TS Playground](https://www.typescriptlang.org/play)
+<br/>
 
 ### Compile a TypeScript file:
 
