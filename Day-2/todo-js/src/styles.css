@@ -1,0 +1,44 @@
+/* src/styles.css */
+.todo-app {
+    max-width: 400px;
+    margin: 0 auto;
+    font-family: 'Arial', sans-serif;
+}
+
+.add-todo {
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.add-todo input {
+    flex: 1;
+    padding: 5px;
+    margin-right: 5px;
+}
+
+.add-todo button {
+    padding: 5px;
+    cursor: pointer;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid #ccc;
+    padding: 8px;
+    margin-bottom: 5px;
+}
+
+li button {
+    background-color: #dc3545;
+    color: #fff;
+    border: none;
+    padding: 5px;
+    cursor: pointer;
+}
