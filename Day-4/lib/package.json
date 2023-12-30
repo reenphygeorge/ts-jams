@@ -1,0 +1,14 @@
+{
+    "name": "@reenphygeorge/test",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "types": "types.d.ts",
+    "scripts": {
+        "dev": "tsc -w",
+        "build": "tsc"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}

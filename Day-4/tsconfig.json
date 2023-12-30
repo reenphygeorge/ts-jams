@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "module": "CommonJS",
+    "esModuleInterop": true,
+    "target": "ES2017",
+    "moduleResolution": "node",
+    "sourceMap": false,
+    "outDir": "lib",
+  },
+  "exclude": [
+    "sample-app",
+    "types.d.ts",
+    "package.json",
+  ],
+  "include": [
+    "**/*.ts",
+  ],
+  "lib": [
+    "es2015"
+  ]
+}
